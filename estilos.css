@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+font-size: 80px;
+color: rgb(25, 25, 155);
+text-align: center;
+}
+
+img{ 
+margin-left: 540px;
+}
+
+h2{
+font-size: 50px;
+}
+
+dl{
+font-size: 30px;
+}
+
+ul{
+font-size: 30px;
+}
